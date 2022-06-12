@@ -14,7 +14,7 @@ npm start
 # Run the local server at Developer tools running on http://localhost:19002
 # PRESS "d" to open Metro Bundler on WEB
 # Click on Android/IOS EMULATOR 
-Metro Bundler
+# Metro Bundler
 
 ```
 https://user-images.githubusercontent.com/76916192/173230251-0bb96f8c-ec61-40e4-8bbf-ff9aa6117cbc.mp4
